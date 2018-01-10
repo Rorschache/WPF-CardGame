@@ -1,0 +1,48 @@
+﻿<Window x:Class="WPF_A.Options"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WPF_A"
+        mc:Ignorable="d"
+        Title="Options" Height="345" Width="434" ResizeMode="NoResize">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="58"/>
+            <RowDefinition Height="20"/>
+            <RowDefinition />
+            <RowDefinition Height="42"/>
+        </Grid.RowDefinitions>
+        <Canvas Grid.Row="0" Background="#C40D42">
+            <Image x:Name="image" Height="56" Canvas.Left="0" Canvas.Top="0" Stretch="UniformToFill" Source=".\BackgroundTile.png"/>
+            <Label x:Name="label" Content="Options" Canvas.Right="10" Canvas.Top="13"  FontFamily="Times New Roman" Foreground="#FFF7EFEF" FontSize="24" FontWeight="Bold"/>
+        </Canvas>
+        <Canvas Grid.Row="1" Background="Black" >
+            <Canvas.Resources>
+                <local:NumberOfPlayers x:Key="numberOfPlayersData"/>
+            </Canvas.Resources>
+            <TabControl x:Name="tabControl" Grid.Row="1" Height="208" Canvas.Left="10" Canvas.Top="2" Width="408">
+                <TabItem Header="Game">
+                    <Grid Background="#FFE5E5E5">
+                        <CheckBox x:Name="checkBox" Content="Number of players" HorizontalAlignment="Left" Margin="10,54,0,0" VerticalAlignment="Top" IsChecked="{Binding Path=PlayAgainstComputer}"/>
+                        <ComboBox HorizontalAlignment="Left" Margin="196,58,0,0" VerticalAlignment="Top" Width="86" Name="numberOfPlayersComboBox" IsEnabled="{Binding ElementName=playAgainstComputerCheck,Path=Ischecked}" ItemsSource="{Binding Source={StaticResource numberOfPlayersData}}" SelectedValue="{Binding Path=NumberOfPlayers}"/>
+                    </Grid>
+                </TabItem>
+                <TabItem Header="Computer Player">
+                    <Grid Background="#FFE5E5E5">
+                        <Label x:Name="label1" Content="Skill Level" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+                        <RadioButton x:Name="dumbAIRadioButton" Content="Dumb" HorizontalAlignment="Left" Margin="37,41,0,0" VerticalAlignment="Top" IsChecked="True" Checked="dumbAIRadioButton_Checked" />
+                        <RadioButton x:Name="goodAIRadionButton" Content="Good" HorizontalAlignment="Left" Margin="37,62,0,0" VerticalAlignment="Top" Checked="goodAIRadionButton_Checked"/>
+                        <RadioButton x:Name="cheatingAIRadionButton" Content="Cheats" HorizontalAlignment="Left" Margin="37,83,0,0" VerticalAlignment="Top" Checked="cheatingAIRadionButton_Checked"/>
+                    </Grid>
+                </TabItem>
+            </TabControl>
+
+        </Canvas>
+        <StackPanel  Grid.Row="3" Orientation="Horizontal" FlowDirection="RightToLeft">
+            <Button x:Name="cancelButton" Content="_Cancel" Height ="22" Width="75" Margin="10,0,0,0" Click="cancelButton_Click"/>
+            <Button x:Name="okButton" Content="_OK" Width="75" Height="22" Margin="10,0,0,0" Click="okButton_Click"/>
+        </StackPanel>
+
+    </Grid>
+</Window>

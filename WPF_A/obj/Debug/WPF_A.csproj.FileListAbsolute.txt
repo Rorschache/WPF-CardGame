@@ -1,0 +1,32 @@
+C:\Users\txj12\Documents\Visual Studio 2015\Projects\WPF Application\WPF_A\WPF_A\bin\Debug\WPF_A.exe.config
+C:\Users\txj12\Documents\Visual Studio 2015\Projects\WPF Application\WPF_A\WPF_A\bin\Debug\WPF_A.exe
+C:\Users\txj12\Documents\Visual Studio 2015\Projects\WPF Application\WPF_A\WPF_A\bin\Debug\WPF_A.pdb
+C:\Users\txj12\Documents\Visual Studio 2015\Projects\WPF Application\WPF_A\WPF_A\obj\Debug\About.g.cs
+C:\Users\txj12\Documents\Visual Studio 2015\Projects\WPF Application\WPF_A\WPF_A\obj\Debug\App.g.cs
+C:\Users\txj12\Documents\Visual Studio 2015\Projects\WPF Application\WPF_A\WPF_A\obj\Debug\WPF_A_MarkupCompile.cache
+C:\Users\txj12\Documents\Visual Studio 2015\Projects\WPF Application\WPF_A\WPF_A\obj\Debug\WPF_A_MarkupCompile.lref
+C:\Users\txj12\Documents\Visual Studio 2015\Projects\WPF Application\WPF_A\WPF_A\obj\Debug\About.baml
+C:\Users\txj12\Documents\Visual Studio 2015\Projects\WPF Application\WPF_A\WPF_A\obj\Debug\WPF_A.g.resources
+C:\Users\txj12\Documents\Visual Studio 2015\Projects\WPF Application\WPF_A\WPF_A\obj\Debug\WPF_A.Properties.Resources.resources
+C:\Users\txj12\Documents\Visual Studio 2015\Projects\WPF Application\WPF_A\WPF_A\obj\Debug\WPF_A.csproj.GenerateResource.Cache
+C:\Users\txj12\Documents\Visual Studio 2015\Projects\WPF Application\WPF_A\WPF_A\obj\Debug\WPF_A.exe
+C:\Users\txj12\Documents\Visual Studio 2015\Projects\WPF Application\WPF_A\WPF_A\obj\Debug\WPF_A.pdb
+C:\Users\txj12\Documents\Visual Studio 2015\Projects\WPF Application\WPF_A\WPF_A\obj\Debug\Options.g.cs
+C:\Users\txj12\Documents\Visual Studio 2015\Projects\WPF Application\WPF_A\WPF_A\obj\Debug\Options.baml
+C:\Users\txj12\Documents\Visual Studio 2015\Projects\WPF Application\Wpf_A\WPF_A\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\txj12\Documents\Visual Studio 2015\Projects\WPF Application\Wpf_A\WPF_A\obj\Debug\StartGame.g.cs
+C:\Users\txj12\Documents\Visual Studio 2015\Projects\WPF Application\Wpf_A\WPF_A\obj\Debug\StartGame.baml
+C:\Users\txj12\Documents\Visual Studio 2015\Projects\WPF Application\Wpf_A\WPF_A\obj\Debug\GameClient.g.cs
+C:\Users\txj12\Documents\Visual Studio 2015\Projects\WPF Application\Wpf_A\WPF_A\obj\Debug\GameClient.baml
+C:\Users\txj12\Documents\Visual Studio 2015\Projects\WPF Application\Wpf_A\WPF_A\obj\Debug\CardControl.g.cs
+C:\Users\txj12\Documents\Visual Studio 2015\Projects\WPF Application\Wpf_A\WPF_A\bin\Debug\C sharp CardLib.dll
+C:\Users\txj12\Documents\Visual Studio 2015\Projects\WPF Application\Wpf_A\WPF_A\bin\Debug\C sharp CardLib.pdb
+C:\Users\txj12\Documents\Visual Studio 2015\Projects\WPF Application\Wpf_A\WPF_A\obj\Debug\CardControl.baml
+C:\Users\txj12\Documents\Visual Studio 2015\Projects\WPF Application\WPF_A\WPF_A\obj\Debug\WPF_A.csprojResolveAssemblyReference.cache
+C:\Users\txj12\Documents\Visual Studio 2015\Projects\WPF Application\Wpf_A\WPF_A\obj\Debug\CardsInHandControl.g.cs
+C:\Users\txj12\Documents\Visual Studio 2015\Projects\WPF Application\Wpf_A\WPF_A\obj\Debug\GameDecksControl.g.cs
+C:\Users\txj12\Documents\Visual Studio 2015\Projects\WPF Application\Wpf_A\WPF_A\obj\Debug\CardsInHandControl.baml
+C:\Users\txj12\Documents\Visual Studio 2015\Projects\WPF Application\Wpf_A\WPF_A\obj\Debug\GameDecksControl.baml
+C:\Users\txj12\Documents\Visual Studio 2015\Projects\C sharp\WPF Application\CardGame\WPF_A\bin\Debug\WPF_A.exe.config
+C:\Users\txj12\Documents\Visual Studio 2015\Projects\C sharp\WPF Application\CardGame\WPF_A\obj\Debug\WPF_A.exe
+C:\Users\txj12\Documents\Visual Studio 2015\Projects\C sharp\WPF Application\CardGame\WPF_A\obj\Debug\WPF_A.pdb

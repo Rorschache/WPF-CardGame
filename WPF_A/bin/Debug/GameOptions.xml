@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<GameOptions xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <PlayerNames>
+    <string>jack</string>
+    <string>paulson</string>
+  </PlayerNames>
+  <SelectedPlayers>
+    <string>paulson</string>
+  </SelectedPlayers>
+  <PlayAgainstComputer>true</PlayAgainstComputer>
+  <NumberOfPlayers>4</NumberOfPlayers>
+  <ComputerSkill>Dumb</ComputerSkill>
+</GameOptions>
